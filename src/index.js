@@ -23,4 +23,5 @@ const weeks = [
   "Sunday",
 ];
 
-export default {months , weeks};
+const both = {months, weeks}
+export default both;

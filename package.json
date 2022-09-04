@@ -1,6 +1,6 @@
 {
   "name": "@jsduniya/months-weeks",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "description": "This package will provide all the months and week names",
   "main": "src/index.js",
   "type": "module",

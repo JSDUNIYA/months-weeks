@@ -3,4 +3,5 @@ This package will provide all the months and week names
 
 ## USAGE
 
-import {months, weeks} from "@jsduniya/months-weeks"
+import mon from "@jsduniya/months-weeks"
+
