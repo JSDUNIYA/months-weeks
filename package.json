@@ -1,0 +1,19 @@
+{
+  "name": "@jsduniya/months-weejs",
+  "version": "1.0.0",
+  "description": "This package will provide all the months and week names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSDUNIYA/months-weeks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSDUNIYA/months-weeks/issues"
+  },
+  "homepage": "https://github.com/JSDUNIYA/months-weeks#readme"
+}
