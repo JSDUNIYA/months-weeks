@@ -1,3 +1,3 @@
-import { months }from "@jsduniya/months-weeks"
+import mon from "@jsduniya/months-weeks"
 
-console.log(months)
+console.log(mon.months)
